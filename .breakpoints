@@ -12,28 +12,22 @@
       {
         "id": "ec18741b-cf0f-4c69-bf13-bd9f74868424",
         "line": 1,
-        "version": 1112,
+        "version": 1113,
         "index": 0
       },
       {
         "id": "9d012f73-cdbe-4be7-b2c3-c3322e4fed82",
         "line": 14,
-        "version": 1112,
+        "version": 1113,
         "index": 188
       }
     ],
     "main.py": [
       {
         "id": "db857c99-e24c-41f8-9204-669e7fc244af",
-        "line": 17,
-        "version": 1667,
-        "index": 239
-      },
-      {
-        "id": "587c8af5-e902-47ca-ba2f-f82e3f3f58a1",
-        "line": 57,
-        "version": 1667,
-        "index": 1997
+        "line": 8,
+        "version": 2229,
+        "index": 136
       }
     ]
   }
